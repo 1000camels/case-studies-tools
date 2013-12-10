@@ -1,10 +1,10 @@
 <?php
 
 
-add_action( 'widgets_init', 'teaching_notes_widget' );
+add_action( 'widgets_init', 'case_studies_widget' );
 
 
-function teaching_notes_widget() {
+function case_studies_widget() {
 	register_widget( 'Teaching_Notes' );
 	register_widget( 'Case_Study_PDF' );
 }
