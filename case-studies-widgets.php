@@ -6,7 +6,7 @@ add_action( 'widgets_init', 'case_studies_widget' );
 
 function case_studies_widget() {
 	register_widget( 'Teaching_Notes' );
-	register_widget( 'Case_Study_PDF' );
+	#register_widget( 'Case_Study_PDF' );
 }
 
 class Teaching_Notes extends WP_Widget {
