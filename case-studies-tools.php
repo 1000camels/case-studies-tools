@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Case Studies Widgets
-Plugin URI: http://1000camels.com/category/
+Plugin Name: Case Studies Tools
+Plugin URI: http://1000camels.com/category/wordpress-plugins/
 Description: Adds two widgets for displaying case study associated material (Teaching Notes and PDF)
 Version: 0.1
 Author: Darcy W. Christ
